@@ -1,0 +1,21 @@
+body {
+    background-color: aqua;
+}
+
+.title-page {
+font-size: 50px;
+}
+header nav ul {
+    display: flex;
+flex-wrap: wrap;
+list-style: none;
+}
+header nav ul li a{
+    padding: 10px;
+font-weight: bold;
+font-size: large;
+}
+img {
+    width: 30%;
+    height: 50%;
+}
